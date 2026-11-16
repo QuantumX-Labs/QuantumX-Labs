@@ -51,5 +51,6 @@ We believe in continuous experimentation, collaborative engineering, open-source
 - Contribute to the open-source ecosystem.
 - Experiment with emerging technologies.
 
-                                                Explore. Experiment. Engineer. Evolve.
-  ### Welcome to QuantumX Labs.
+
+### Explore. Experiment. Engineer. Evolve.
+### Welcome to QuantumX Labs.
